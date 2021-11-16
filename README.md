@@ -32,6 +32,6 @@ The construction is similar to V2. The tension struts and intermediary rod have 
 The construction is similar to V3. Beside the tension struts and intermediary rod, in V4 the front rod has also a diameter of 8mm.
 The V4 is easier to build and theirfor it would cost less. 
 
-<img src="3-1.jpg" width="500" align="center"> 
-<img src="3-2.jpg" width="500" align="center"> 
-<img src="3-3.jpg" width="500" align="center"> 
+<img src="4-1.jpg" width="500" align="center"> 
+<img src="4-2.jpg" width="500" align="center"> 
+<img src="4-3.jpg" width="500" align="center"> 
